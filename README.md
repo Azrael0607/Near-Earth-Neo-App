@@ -6,12 +6,16 @@ BACKEND STEPS
 
  cd "to\Near-Earth-Orbit-NEO-Alert-System\backend" 
 .\venv\Scripts\Activate
+
  pip install -r requirements.txt 
+ 
  uvicorn server:app --reload --host 0.0.0.0 -
 
 
 FRONTEND STEPS
 
  cd "to\Near-Earth-Orbit-NEO-Alert-System\frontend"
+ 
 npm install
+
 npm run dev
