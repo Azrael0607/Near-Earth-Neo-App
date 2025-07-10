@@ -1,5 +1,5 @@
 # Here are your Instructions
-Small project using NASA's free api to show near earth objects, photos from mars and apod which allows you to download beuatiful photos of space captured by NASA
+Small project using NASA's free api to show near earth objects, photos from mars and apod which allows you to download beautiful photos of space captured by NASA
 
 to run the code the follow the below instructions
 BACKEND STEPS
